@@ -1,6 +1,6 @@
 # push_swap
 
-`push_swap` es un proyecto de 42 Madrid cuyo objetivo es ordenar una pila de números enteros utilizando un conjunto muy limitado de operaciones y el menor número de movimientos posible. El reto consiste en diseñar e implementar un algoritmo eficiente para ordenar los datos usando únicamente instrucciones de manipulación de pilas.
+`push_swap` es un proyecto de 42 cuyo objetivo es ordenar una pila de números enteros utilizando un conjunto muy limitado de operaciones y el menor número de movimientos posible. El reto consiste en diseñar e implementar un algoritmo eficiente para ordenar los datos usando únicamente instrucciones de manipulación de pilas.
 
 ## ¿En qué consiste?
 
